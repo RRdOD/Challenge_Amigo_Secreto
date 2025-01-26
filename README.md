@@ -3,7 +3,9 @@ Este projeto foi desenvolvido com o objetivo de tornar os sorteios de "Amigo Sec
 
 # Funções
 Adicionar amigos(s): O usuário pode inserir os nomes dos amigos em um campo de mensagem, e esses nomes serão armazenados em uma lista exibida na interface.
+
 Exibir lista de amigo(s): A lista de amigos cadastrada será exibida em tempo real, tornando mais fácil o acompanhamento e a interação.
+
 Sorteio do amigo secreto: Quando o usuário clicar no botão "Sortear amigo", o sistema faz o sorteio de forma aleatória e mostra o resultado na interface.
 
 # Códigos usados
